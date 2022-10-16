@@ -34,7 +34,7 @@ header{
     flex-direction: column;
 }
 .nav_links a:visited {
-    color: purple;
+    color: blue;
 }
 
 .card > header {
