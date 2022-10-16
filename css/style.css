@@ -95,7 +95,7 @@ header{
 
 /* turn off animation for reduced motion */
 @media screen and (prefers-reduced-motion: reduce){
-    .logo{
+    #logo{
         animation: none;
     }
 }
