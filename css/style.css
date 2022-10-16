@@ -33,6 +33,9 @@ header{
     display:flex;
     flex-direction: column;
 }
+.nav_links a:visited {
+    color: purple;
+}
 
 .card > header {
     background: #288088;
