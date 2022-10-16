@@ -124,6 +124,7 @@ header{
    .card{
        border: 2px solid #45ADDD;
        flex-basis: 325px;
+       text-align: left;
    }
 
    .nav_links{
