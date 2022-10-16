@@ -114,6 +114,10 @@ header{
    .gallery{
         display: none;
    }
+   
+   #gallery{
+       display: none;
+    }
 
    .pricing{
         justify-content: center;
