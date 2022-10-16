@@ -129,6 +129,7 @@ header{
    .nav_links{
         flex-direction: row;
         justify-content: space-evenly;
+        color: blue;
    }
    
    .card li:nth-child(2):after{
